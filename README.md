@@ -1,3 +1,3 @@
 # rsschool-2019Q1-codeacademy
-https://www.codecademy.com/users/daangrah/achievements
 Daniil Grahantsev
+HTML CSS Basics: https://www.codecademy.com/users/sergey.shalyapin/achievements
